@@ -14,7 +14,7 @@ Swing: GUI toolkit for creating the application's graphical user interface.
 
 INSTALLATION:
 Clone the repository:
-git clone https://github.com/yourusername/bank-management-system.git
+git clone https://github.com/Ujjawal-Chaudhary/bank-management-system.git
 
 Navigate to the project directory:
 cd bank-management-system
